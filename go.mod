@@ -1,4 +1,4 @@
-module github.com/els-agentai/ws
+module github.com/thorlove/xlog.git
 
 go 1.22
 
